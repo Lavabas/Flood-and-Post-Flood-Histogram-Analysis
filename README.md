@@ -1,4 +1,4 @@
-<img width="1105" height="393" alt="image" src="https://github.com/user-attachments/assets/a66a6e25-1b24-42ea-9f51-3ec721729a63" /># Flood-and-Post-Flood-Histogram-Analysis
+
 ## Overview
 
 Floods are among the most destructive natural hazards in Sri Lanka, frequently causing damage to infrastructure, agriculture, ecosystems, and human settlements. Rapid identification of flood-affected areas is essential for disaster response, environmental monitoring, and risk assessment. Remote sensing provides an effective approach for monitoring floods over large regions where field observations may be limited.
